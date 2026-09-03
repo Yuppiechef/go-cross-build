@@ -1,4 +1,4 @@
-# GitHub Action: go-build-action
+# GitHub Action: go-build-action (Archived)
 This actions generates cross-platform executable files from a Go module.
 
 ![release](/assets/release.png)
